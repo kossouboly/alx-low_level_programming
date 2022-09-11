@@ -12,7 +12,7 @@ int main(void)
 {
 	char display[52];
 
-	strcpy(display, "\"Programming is like building a multilingual puzzle);
+	strcpy(display, "\"Programming is like building a multilingual puzzle");
 	puts(display);
 	return (0);
 }
