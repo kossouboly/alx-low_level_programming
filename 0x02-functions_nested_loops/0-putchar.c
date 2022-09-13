@@ -1,10 +1,9 @@
 #include "main.h"
 #include<stdio.h>
+
 /**
- *
- *main - print a string "_putchar" from a array
- *Return : return 0 on success
- *
+ *main - print a string _putchar from a array
+ *Return: 0 on success
 */
 
 int main(void)
