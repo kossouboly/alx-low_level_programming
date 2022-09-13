@@ -1,9 +1,10 @@
 #include "main.h"
 #include<stdio.h>
-
 /**
- *main - prints the string "_putchar" from a character array.
- *Return: 0 on success.
+ *
+ *main - print a string "_putchar" from a array
+ *Return : return 0 on success
+ *
 */
 
 int main(void)
@@ -13,13 +14,9 @@ int main(void)
 
 	for (i = 0; i < 8; i++)
 	{
-			
 		_putchar(c[i]);
 
 	}
-
 	_putchar('\n');
-
 	return (0);
-
 }
