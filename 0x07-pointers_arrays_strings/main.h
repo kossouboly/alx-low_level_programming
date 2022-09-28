@@ -1,10 +1,9 @@
-ifndef MAIN_H
+#ifndef MAIN_H
 #define MAIN_H
 
 /**
- * void prototypes(void)
- * int prototypes(int)
- * char prototypes(char)
+ * void prototypes()
+ * int prototypes()
 */
 
 int _putchar(char);
@@ -18,4 +17,4 @@ void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
 
-#endif /* MAIN_H */
+#endif /*MAIN_H*/
